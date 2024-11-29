@@ -8,7 +8,7 @@
    ```bash
    cd GoBookstore
    ```
-3. Install dependencies:
+3. Install dependencies:nsrfnsijdgfnjsrfne
    ```bash
    go mod tidy
    ```
